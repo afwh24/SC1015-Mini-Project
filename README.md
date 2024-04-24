@@ -21,7 +21,7 @@ To analyze how the selling price of smartphones is influenced by their brand, me
 # **Our Data Models** <br>
 **Disclaimer: Some of the models take some time to train during execution**
  <br><br>
- **More details and information are explained in our video presentation submission**
+ **More details and information are explained in our jupyter notebook comments and video presentation submission**
  <br><br>
 **Linear Regression Model (Uni-variate)**
 1. Performed uni-variate linear regression with memory RAM, storage, rating as predictor and original price as the response
