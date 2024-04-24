@@ -14,7 +14,7 @@ To analyze how the selling price of smartphones is influenced by their brand, me
 
 # **Dataset Information** <br>
 **Data Source: https://www.kaggle.com/datasets/yaminh/smartphone-sale-dataset** <br> 
-1. The dataset we are using is actually India smartphone sales data from Kaggle with a score of 8.82 for usability. <br>
+1. The dataset we are using is India smartphone sales data from Kaggle with a score of 8.82 for usability. <br>
 2. It offers an overview of the smartphone market, enabling analysis of pricing strategies, consumer preferences, and market trends in India. 
 
 
